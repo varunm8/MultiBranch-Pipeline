@@ -1,2 +1,2 @@
 <<<<<<< HEAD
-Some more changes in the code
+Developer modified the README.md file

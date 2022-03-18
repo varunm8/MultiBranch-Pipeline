@@ -21,3 +21,7 @@ node {
          sh 'scp /home/ubuntu/.jenkins/workspace/ScriptedProject/webapp/target/webapp.war ubuntu@172.31.21.17:/var/lib/tomcat9/webapps/prodenv.war'
     }
 }
+
+
+
+// This is developer activity

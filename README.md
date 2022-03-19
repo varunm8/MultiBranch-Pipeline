@@ -23,5 +23,5 @@ node {
 }
 
 
-// This change to practice git fetch command
+// This change to practice git pull command
 

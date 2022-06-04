@@ -1,2 +1,2 @@
 //Testing CI-CD Pipeline
-//ScriptedPipeline
+//Declarative Pipeline
